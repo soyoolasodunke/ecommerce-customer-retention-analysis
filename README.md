@@ -25,5 +25,3 @@ SELECT * FROM customer
 
 ```
 
-`customer`
-
